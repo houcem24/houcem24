@@ -10,7 +10,7 @@
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-<img width="55%" align="right" alt="animated" src="https://user-images.githubusercontent.com/47532395/182727264-33ec126c-a106-4b87-a1ec-96792ff9a32c.gif" />
+<img width="40%" align="right" alt="animated" src="https://user-images.githubusercontent.com/47532395/182727264-33ec126c-a106-4b87-a1ec-96792ff9a32c.gif" />
 
 - 🔭 I’m currently a data science engineering student
   
