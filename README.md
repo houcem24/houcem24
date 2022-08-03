@@ -1,4 +1,4 @@
-![news24](https://user-images.githubusercontent.com/47532395/182726113-13539925-b3c6-4b09-8b64-9a284a9a46e9.gif)
+<p align="center"> ![news24](https://user-images.githubusercontent.com/47532395/182726113-13539925-b3c6-4b09-8b64-9a284a9a46e9.gif)
 <h1> Hello Friends ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
