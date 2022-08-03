@@ -1,5 +1,3 @@
-<img width="55%" align="right" alt="Github" src="https://c.tenor.com/rS-u5lIUQWsAAAAC/anime-coding.gif" />
-
 <h1> Hello Friends ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
