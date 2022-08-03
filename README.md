@@ -46,4 +46,8 @@
 <a href = 'mailto:houssem.ouerdiane@esprit.tn'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/yahoo.svg"/></a>
 <a href = 'https://www.facebook.com/houssem.ouerdiane.3/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg"/></a>
 <a href = 'https://www.instagram.com/houssem.ouerdiane.3'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=houssem24&show_icons=true&locale=en&layout=compact" alt="houssem24" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=houssem24&show_icons=true&locale=en" alt="houssem24" /></p>
   
