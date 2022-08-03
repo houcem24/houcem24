@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/47532395/182726113-13539925-b3c6-4b09-8b64-9a284a9a46e9.gif" alt="animated" />
+  <img width="70%" src="https://user-images.githubusercontent.com/47532395/182726113-13539925-b3c6-4b09-8b64-9a284a9a46e9.gif" alt="animated" />
 </p>
 <h1> Hello Friends ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
@@ -10,7 +10,7 @@
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Github" src="(https://user-images.githubusercontent.com/47532395/182727264-33ec126c-a106-4b87-a1ec-96792ff9a32c.gif" />
 
 - 🔭 I’m currently a data science engineering student
   
