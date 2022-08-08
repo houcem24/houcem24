@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently a data science engineering student
   
-- 🌱 I’m currently learning Pyhton, Angular & Flask
+- 🌱 I’m currently learning Python, Angular & Flask
   
 - 👯 I’m looking for any new exciting opportunities
   
