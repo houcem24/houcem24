@@ -12,7 +12,7 @@
 
 <img width="40%" align="right" alt="animated" src="https://user-images.githubusercontent.com/47532395/182727264-33ec126c-a106-4b87-a1ec-96792ff9a32c.gif" />
 
-- 🔭 I’m currently a data science engineering student
+- 🔭 I’m currently an AI master student
   
 - 🌱 I’m currently learning Python, Angular & Flask
   
