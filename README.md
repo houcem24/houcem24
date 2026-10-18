@@ -1,57 +1,34 @@
-<p align="center">
-  <img width="70%" src="https://user-images.githubusercontent.com/47532395/182726113-13539925-b3c6-4b09-8b64-9a284a9a46e9.gif" alt="animated" />
-</p>
-<h1> Hello Friends ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
+## Hi, I'm Houssem 👋
 
-<div size='20px'> Hi! My name is Houssem. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
+**Data Analyst at BMW Group** · MSc Artificial Intelligence student at the **University of Passau**
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+I turn messy operational data into models, dashboards and tools people can use. Before BMW I worked as a data
+analyst at Magna International for two and a half years. My interests are computer
+vision, applied machine learning, data visualisation and LLM agents.
 
-<img width="40%" align="right" alt="animated" src="https://user-images.githubusercontent.com/47532395/182727264-33ec126c-a106-4b87-a1ec-96792ff9a32c.gif" />
+### Featured projects
 
-- 🔭 I’m currently an AI master student
-  
-- 🌱 I’m currently learning Python, Angular & Flask
-  
-- 👯 I’m looking for any new exciting opportunities
-  
-- 💬 Ask me about anything
+| Project | What it is | Stack |
+|---|---|---|
+| [**Job Application Agent**](https://github.com/houcem24/job-application-agent) | An LLM agent that searches job boards, tailors applications and submits them through a browser | Claude Code, Playwright MCP, Python, LaTeX |
+| [**Fantasy Realms Card Detection**](https://github.com/houcem24/fantasy-realms-card-detection) | YOLOv8 models that recognise every card of a board game (mAP@50 0.96 on table shots) plus a scoring assistant | YOLOv8, OpenCV, Roboflow |
+| [**ADAS Clip Validity Analysis**](https://github.com/houcem24/adas-clip-validity-analysis) | Master's thesis with Magna: repairing driving-clip metadata, predicting clip validity, serving it in a web app | scikit-learn, XGBoost, Flask, Docker |
+| [**RecycleAlloy Explorer**](https://github.com/houcem24/recyclealloy-explorer) | Six linked D3 views for exploring 324k simulated recycled-aluminium alloys in the browser | D3.js, JavaScript |
+| [**Bank Check Amount Verification**](https://github.com/houcem24/bank-check-recognition) | Reads digit and handwritten amounts on checks and flags mismatches | TensorFlow, OpenCV, Tesseract |
+| [**Credit Card Default Prediction**](https://github.com/houcem24/credit-card-default-prediction) | Seven classifiers compared on the UCI credit default dataset | scikit-learn, pandas |
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/dotnet.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/symfony.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bash.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/hadoop.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/hive.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'> </a>
+More: [NFT tweet sentiment](https://github.com/houcem24/nft-tweet-sentiment-analysis) ·
+[marketing revenue attribution](https://github.com/houcem24/marketing-revenue-attribution) ·
+[delivery KPI dashboard](https://github.com/houcem24/kpi-dashboard-tableau) ·
+[real-estate listing NLP](https://github.com/houcem24/real-estate-listing-nlp)
 
+### Tools I use
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/houssem-ouerdiane-0b3562230/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.github.com/houcem24'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-<a href = 'mailto:houssem.ouerdiane@gmail.com.tn'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/yahoo.svg"/></a>
-<a href = 'https://www.facebook.com/houssem.ouerdiane.3/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg"/></a>
-<a href = 'https://www.instagram.com/houssem.ouerdiane.3'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a>
+- **Languages:** Python, SQL, JavaScript, Bash
+- **Data and ML:** pandas, NumPy, scikit-learn, XGBoost, TensorFlow, PyTorch, Ultralytics YOLO, OpenCV, spaCy
+- **Visualisation:** Tableau, D3.js, Matplotlib, Seaborn
+- **Engineering:** Git, Docker, Flask, Jupyter, LLM agents (Claude Code, MCP)
 
-<br>
-<br>
+### Contact
 
-<p>
-  <br>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=houcem24&show_icons=true&locale=en&layout=compact" alt="houcem24" /></p>
-<p>&nbsp<img align="right" src="https://github-readme-stats.vercel.app/api?username=houcem24&show_icons=true&locale=en" alt="houcem24" /></p>
-  
+[LinkedIn](https://www.linkedin.com/in/houssemouerdiane/) · [houssem.ouerdiane@gmail.com](mailto:houssem.ouerdiane@gmail.com)
